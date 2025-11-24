@@ -4,12 +4,13 @@
 
 ![Image from CCAP Courses](./images/Applied-Statistics.jpg)
 
-######[Image from CCAP Courses](https://ccap.co.ke/course/bachelor-of-science-applied-statistics/)
+###### [Image from CCAP Courses](https://ccap.co.ke/course/bachelor-of-science-applied-statistics/)
 
 This repository contains my Problem submission for the module Applied Statistics.
+
 My github repository link is as follows:
 
-[SBCURLEY/pfda-project](https://ccap.co.ke/course/bachelor-of-science-applied-statistics/)
+[SBCURLEY/as-assessment](https://github.com/SBCURLEY/as-assessment)
 
 ## Installation
 I had to install the below to get started on this repository
@@ -57,22 +58,10 @@ Once the above is installed, you can run the notebook for the project `problems.
 
 ## Repository Structure
 
-
-images
-roughwork
-gitignore
-problems.ipynb
-README
-
-1. Images folder: contains images used for the Readme & the problems notebook
-
-2. roughwork
-
-3. gitignore
-
-4. problems.ipynb:
-
-The Problems are contained in this Jupyter Notebook.
+- Images folder: contains images used for the Readme & the problems notebook
+- roughwork
+- gitignore
+- problems.ipynb. The Problems are contained in this Jupyter Notebook. 
 
 The Problems notebook is structured as follows:
 
