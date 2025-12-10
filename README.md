@@ -113,7 +113,7 @@ The Problems notebook is structured as follows:
 
 All references are placed throughout the Problems.ipynb Notebook where they are used, with context provided as to what they are and why they are relevant as per assessment guidance. A summary per Problem is as follows:
 
-     - Imports:
+  - Imports:
        - https://docs.python.org/3/library/math.html
        - https://docs.python.org/3/library/itertools.html
        - https://docs.python.org/3/library/random.html
@@ -124,7 +124,7 @@ All references are placed throughout the Problems.ipynb Notebook where they are 
        - https://pandas.pydata.org/
 
 
-     - Problem 1: Extending the Lady Tasting Tea
+  - Problem 1: Extending the Lady Tasting Tea
        - https://en.wikipedia.org/wiki/Lady_tasting_tea
        - https://en.wikipedia.org/wiki/Ronald_Fisher
        - https://docs.python.org/3/library/math.html#math.comb
