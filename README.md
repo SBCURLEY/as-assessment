@@ -111,7 +111,7 @@ The Problems notebook is structured as follows:
 
 5. References: All references appear throughout the Problems.ipynb Notebook where used. 
 
-    - Imports:
+  - Imports:
     - https://docs.python.org/3/library/math.html
     - https://docs.python.org/3/library/itertools.html
     - https://docs.python.org/3/library/random.html
@@ -122,7 +122,7 @@ The Problems notebook is structured as follows:
     - https://pandas.pydata.org/
 
 
-    - Problem 1: Extending the Lady Tasting Tea
+  - Problem 1: Extending the Lady Tasting Tea
     - https://en.wikipedia.org/wiki/Lady_tasting_tea
     - https://en.wikipedia.org/wiki/Ronald_Fisher
     - https://docs.python.org/3/library/math.html#math.comb
@@ -149,32 +149,31 @@ The Problems notebook is structured as follows:
     - https://pythonbasics.org/enumerate/
     - https://www.w3schools.com/python/ref_func_enumerate.asp
     - https://pythonguides.com/python-numpy-unique/
-    -  https://numpy.org/doc/stable/reference/generated/numpy.unique.html
-    -  https://pythonguides.com/python-numpy-unique/
-    -  https://sciencenotes.org/pascals-triangle/
-    -  https://en.wikipedia.org/wiki/Pascal%27s_triangle
-    -  https://pytutorial.com/python-matplotlib-bar-charts-create-amazing-visualizations/
-    -  
+    - https://numpy.org/doc/stable/reference/generated/numpy.unique.html
+    - https://pythonguides.com/python-numpy-unique/
+    - https://sciencenotes.org/pascals-triangle/
+    - https://en.wikipedia.org/wiki/Pascal%27s_triangle
+    - https://pytutorial.com/python-matplotlib-bar-charts-create-amazing-visualizations/
 
-  -   Problem 2: Normal Distribution
-  -   https://www.linkedin.com/advice/1/how-do-you-distinguish-between-population-sample-standard-mzi1f
-  -   https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
-  -   https://realpython.com/numpy-random-normal/
-  -   https://numpy.org/doc/stable/reference/generated/numpy.std.html
-  -   https://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics)
-  -   https://www.statology.org/understanding-degrees-freedom-statistics/
--   https://numpy.org/doc/stable/reference/generated/numpy.linspace.html
--   https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/a/population-and-sample-standard-deviation-review
--   https://towardsdatascience.com/the-reasoning-behind-bessels-correction-n-1-eeea25ec9bc9/
--   https://en.wikipedia.org/wiki/Bessel%27s_correction
--   https://python-bloggers.com/2024/02/bessels-correction/
--   https://medium.com/@luis.serrano/the-bessel-correction-term-the-n-1-and-a-different-way-to-look-at-variance-4e1e07c88f4b
--   https://stats.stackexchange.com/questions/664047/intuition-of-bessel-like-corrections-for-higher-order-moments
--  https://gregorygundersen.com/blog/2019/01/11/bessel/ 
--  https://books.google.ie/books?id=-c9CDwAAQBAJ&redir_esc=y
+-  Problem 2: Normal Distribution
+  -  https://www.linkedin.com/advice/1/how-do-you-distinguish-between-population-sample-standard-mzi1f
+  -  https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
+  -  https://realpython.com/numpy-random-normal/
+  -  https://numpy.org/doc/stable/reference/generated/numpy.std.html
+  -  https://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics)
+  -  https://www.statology.org/understanding-degrees-freedom-statistics/
+  -  ttps://numpy.org/doc/stable/reference/generated/numpy.linspace.html
+  -  https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/a/population-and-sample-standard-deviation-review
+  -  https://towardsdatascience.com/the-reasoning-behind-bessels-correction-n-1-eeea25ec9bc9/
+  -  https://en.wikipedia.org/wiki/Bessel%27s_correction
+  -  https://python-bloggers.com/2024/02/bessels-correction/
+  -  https://medium.com/@luis.serrano/the-bessel-correction-term-the-n-1-and-a-different-way-to-look-at-variance-4e1e07c88f4b
+  -  https://stats.stackexchange.com/questions/664047/intuition-of-bessel-like-corrections-for-higher-order-moments
+  -  https://gregorygundersen.com/blog/2019/01/11/bessel/ 
+   - https://books.google.ie/books?id=-c9CDwAAQBAJ&redir_esc=y
 
 
-  -   Problem 3: t-Tests
+-   Problem 3: t-Tests
   -   https://statisticsbyjim.com/hypothesis-testing/t-test/
   -   https://www.statisticshowto.com/probability-and-statistics/t-test/
   -   https://www.dmaic.com/faq/hypothesis-testing/
