@@ -155,48 +155,53 @@ The Problems notebook is structured as follows:
     - https://en.wikipedia.org/wiki/Pascal%27s_triangle
     - https://pytutorial.com/python-matplotlib-bar-charts-create-amazing-visualizations/
 
+
+
 -  Problem 2: Normal Distribution
-  -  https://www.linkedin.com/advice/1/how-do-you-distinguish-between-population-sample-standard-mzi1f
-  -  https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
-  -  https://realpython.com/numpy-random-normal/
-  -  https://numpy.org/doc/stable/reference/generated/numpy.std.html
-  -  https://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics)
-  -  https://www.statology.org/understanding-degrees-freedom-statistics/
-  -  ttps://numpy.org/doc/stable/reference/generated/numpy.linspace.html
-  -  https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/a/population-and-sample-standard-deviation-review
-  -  https://towardsdatascience.com/the-reasoning-behind-bessels-correction-n-1-eeea25ec9bc9/
-  -  https://en.wikipedia.org/wiki/Bessel%27s_correction
-  -  https://python-bloggers.com/2024/02/bessels-correction/
-  -  https://medium.com/@luis.serrano/the-bessel-correction-term-the-n-1-and-a-different-way-to-look-at-variance-4e1e07c88f4b
-  -  https://stats.stackexchange.com/questions/664047/intuition-of-bessel-like-corrections-for-higher-order-moments
-  -  https://gregorygundersen.com/blog/2019/01/11/bessel/ 
-   - https://books.google.ie/books?id=-c9CDwAAQBAJ&redir_esc=y
+    - https://www.linkedin.com/advice/1/how-do-you-distinguish-between-population-sample-standard-mzi1f
+    - https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
+    - https://realpython.com/numpy-random-normal/
+    - https://numpy.org/doc/stable/reference/generated/numpy.std.html
+    - https://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics)
+    - https://www.statology.org/understanding-degrees-freedom-statistics/
+    - https://numpy.org/doc/stable/reference/generated/numpy.linspace.html
+    - https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/a/population-and-sample-standard-deviation-review
+    - https://towardsdatascience.com/the-reasoning-behind-bessels-correction-n-1-eeea25ec9bc9/
+    - https://en.wikipedia.org/wiki/Bessel%27s_correction
+    - https://python-bloggers.com/2024/02/bessels-correction/
+    - https://medium.com/@luis.serrano/the-bessel-correction-term-the-n-1-and-a-different-way-to-look-at-variance-4e1e07c88f4b
+    - https://stats.stackexchange.com/questions/664047/intuition-of-bessel-like-corrections-for-higher-order-moments
+    - https://gregorygundersen.com/blog/2019/01/11/bessel/ 
+    - https://books.google.ie/books?id=-c9CDwAAQBAJ&redir_esc=y
 
 
 -   Problem 3: t-Tests
-  -   https://statisticsbyjim.com/hypothesis-testing/t-test/
-  -   https://www.statisticshowto.com/probability-and-statistics/t-test/
-  -   https://www.dmaic.com/faq/hypothesis-testing/
-  -   https://www.dmaic.com/faq/alternative-hypothesis-h%e2%82%90/
-  -   https://www.dmaic.com/faq/alpha-risk-type-i-error/
-  -   https://www.statology.org/two-sample-t-test/
-  -   https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
-  -   https://pytutorial.com/python-randomseed-initialize-random-generator-guide/#google_vignette
-  -   https://numpy.org/doc/stable/reference/random/generated/numpy.random.seed.html
-  -   https://numpy.org/doc/stable/reference/generated/numpy.round.html
-  -   https://numpy.org/doc/stable/reference/generated/numpy.arange.html
-  -   https://pytutorial.com/python-randomseed-initialize-random-generator-guide/#google_vignette
-  -   https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
-  -   https://realpython.com/numpy-random-normal/
-  -   https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
-  -   https://pythonguides.com/python-scipy-ttest_ind/
-  -   https://stackoverflow.com/questions/49576153/how-to-interpret-the-output-of-scipy-stats-ttest-ind
-  -   https://statsig.com/perspectives/interpret-pvalue-ttest-guide
-  -   https://palospublishing.com/how-to-interpret-the-results-of-a-t-test-in-data-analysis/
-  -   https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
-  -   
+    - https://statisticsbyjim.com/hypothesis-testing/t-test/
+    - https://www.statisticshowto.com/probability-and-statistics/t-test/
+    - https://www.dmaic.com/faq/hypothesis-testing/
+    - https://www.dmaic.com/faq/alternative-hypothesis-h%e2%82%90/
+    - https://www.dmaic.com/faq/alpha-risk-type-i-error/
+    - https://www.statology.org/two-sample-t-test/
+    - https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
+    - https://pytutorial.com/python-randomseed-initialize-random-generator-guide/#google_vignette
+    - https://numpy.org/doc/stable/reference/random/generated/numpy.random.seed.html
+    - https://numpy.org/doc/stable/reference/generated/numpy.round.html
+    - https://numpy.org/doc/stable/reference/generated/numpy.arange.html
+    - https://pytutorial.com/python-randomseed-initialize-random-generator-guide/#google_vignette
+    - https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
+    - https://realpython.com/numpy-random-normal/
+    - https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
+    - https://pythonguides.com/python-scipy-ttest_ind/
+    - https://stackoverflow.com/questions/49576153/how-to-interpret-the-output-of-scipy-stats-ttest-ind
+    - https://statsig.com/perspectives/interpret-pvalue-ttest-guide
+    - https://palospublishing.com/how-to-interpret-the-results-of-a-t-test-in-data-analysis/
+    - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
 
-  -   Problem 4: ANOVA
+
+-   Problem 4: ANOVA
+    - https://
+    - https://
+    - https://
 
 
 
