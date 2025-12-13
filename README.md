@@ -30,7 +30,6 @@ The following libraries are required to execute my notebook:
 - `random`: This module implements pseudo-random number generators for various distributions.
 - `scipy.stats`: This module contains a large number of probability distributions, summary and frequency statistics, correlation functions and statistical tests, masked statistics, kernel density estimation, quasi-Monte Carlo functionality, and more.
 - `statsmodels`: It provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
-- `seaborn`: Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
 Using python, import the following as per notebook:
 
@@ -50,8 +49,6 @@ Using python, import the following as per notebook:
 
 `import statsmodels as sm`
 
-`import seaborn as sns`
-
 
 ## Usage
 Once the above is installed, you can run the notebook for the project `problems.ipynb`
@@ -62,6 +59,7 @@ Once the above is installed, you can run the notebook for the project `problems.
 - roughwork
 - gitignore
 - problems.ipynb. The Problems are contained in this Jupyter Notebook. 
+- requirements.txt
 
 The Problems notebook is structured as follows:
 
@@ -101,13 +99,22 @@ The Problems notebook is structured as follows:
     - Conclusion
 
   - Problem 4: ANOVA
-
-
-
-
+    - Introduction
+    - Generate Samples
+    - Create dataframe
+    - Explore the data
+    - Perform Anova
+    - Interpret Results from Anova
+    - Perform Tukey HSD
+    - Interpret Results from Tukey HSD
+    - Perform the two-sample t-tests
+    - Comparison of results
+    - Why Anova
+    - Conclusion
 
 
 4. Conclusion
+
 
 5. References: 
 
@@ -201,11 +208,33 @@ All references are placed throughout the Problems.ipynb Notebook where they are 
 
 
    -   Problem 4: ANOVA
-        - https://
-        - https://
-        - https://
-
-
+        - https://www.pythonfordatascience.org/anova-python/
+        - https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/anova/
+        - https://www.geeksforgeeks.org/machine-learning/f-test/
+        - https://towardsdatascience.com/anova-test-with-python-cfbf4013328b/
+        - https://towardsdatascience.com/two-way-anova-test-with-python-a112e2396d78/
+        - https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
+        - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.describe.html
+        - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
+        - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sem.html
+        - https://www.w3schools.com/python/pandas/ref_df_sem.asp
+        - https://www.pythonfordatascience.org/anova-python/
+        - https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html
+        - https://support.minitab.com/en-us/minitab/help-and-how-to/statistical-modeling/anova/how-to/one-way-anova/interpret-the-results/key-results/
+        - https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.tukey_hsd.html
+        - https://en.wikipedia.org/wiki/Tukey%27s_range_test
+        - https://statisticsbyjim.com/anova/f-tests-anova/
+        - https://www.statology.org/two-sample-t-test/
+        - https://www.w3schools.com/python/ref_math_comb.asp
+        - https://docs.python.org/3/library/math.html#math.comb
+        - https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
+        - https://www.w3schools.com/python/scipy/scipy_statistical_significance_tests.php
+        - https://pythonguides.com/python-scipy-ttest_ind/
+        - https://support.minitab.com/en-us/minitab/help-and-how-to/statistics/basic-statistics/how-to/2-sample-t/interpret-the-results/key-results/
+        - https://medium.com/@shenjiejie2017/type-i-error-inflation-in-experiments-common-causes-and-how-to-avoid-them-ac7e470558b6
+        - https://researchmethodsandstats.pressbooks.tru.ca/chapter/when-and-why-do-we-use-anova/
+        - https://www.questionpro.com/blog/anova-testing/
+        - https://www.questionpro.com/blog/anova-testing/
 
 
 
