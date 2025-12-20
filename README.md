@@ -6,7 +6,15 @@
 
 ###### [Image from CCAP Courses](https://ccap.co.ke/course/bachelor-of-science-applied-statistics/)
 
+## Introduction
+
 This repository contains my Problem submission for the module Applied Statistics.
+The learning outcomes for this module are:
+
+1. Describe the stochastic nature of real-world measurements.
+2. Source documentation to programmatically perform a statistical test.
+3. Select an appropriate statistical test to investigate a claim.
+4. Perform a statistical test on a data set.
 
 My github repository link is as follows:
 
@@ -58,7 +66,7 @@ Once the above is installed, you can run the notebook for the project `problems.
 - Images folder: contains images used for the Readme & the problems notebook
 - roughwork
 - gitignore
-- problems.ipynb. The Problems are contained in this Jupyter Notebook. 
+- problems.ipynb: The Problems are contained in this Jupyter Notebook. 
 - requirements.txt
 
 The Problems notebook is structured as follows:
@@ -113,10 +121,11 @@ The Problems notebook is structured as follows:
     - Conclusion
 
 
-4. Conclusion
+## Conclusion
 
+The completion of the four problems in this module demonstrates that the learning outcomes for Applied Statistics have been successfully achieved. Through analysis of real-world data, the stochastic nature of measurements was clearly illustrated, highlighting the presence of variability and uncertainty inherent in practical data collection. Relevant documentation and resources were effectively sourced and applied to programmatically implement statistical tests, reinforcing the importance of accurate and well-informed computational methods. Appropriate statistical tests were selected based on the nature of the data and the claims being investigated, ensuring that each analysis was methodologically sound. Finally, the statistical tests were correctly performed and interpreted, allowing meaningful conclusions to be drawn from the data. Overall, this module has strengthened my ability to apply statistical reasoning, computational tools, and critical thinking to real-world problems.
 
-5. References: 
+## References
 
 All references are placed throughout the Problems.ipynb Notebook where they are used, with context provided as to what they are and why they are relevant as per assessment guidance. A summary per Problem is as follows:
 
